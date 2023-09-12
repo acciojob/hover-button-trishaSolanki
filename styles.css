@@ -3,14 +3,12 @@
 #btn{
 	background-color:black;
 	color: white;
-	border:5px;
+	border-radius:5px;
 	border:none;
-	cursor:pointer;
-	
-	
+	cursor:pointer;	
 }
 #btn:hover{
 	background-color:yellow;
 	color:black;
-	border:30px;
+	border-radius:30px;
 }
